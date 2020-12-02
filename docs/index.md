@@ -2,7 +2,6 @@
 **Dev:** *YSon*
 **Date:** *12.01.2020*
 
-## Assignment 07
 ## SAVE DATA USING BINARY FORMAT AND UTILIZE EXCEPETION FUNCTIONS
 Pickle is one of the python module used to serializing and de-serializing a Python object structure.  
 Structure error handling uses built-in class that contains information about a common errors. 
