@@ -13,7 +13,7 @@ Exception is different from syntax error.
 Syntax error occurs when the program detects an incorrect statement but an Exception error happens only if certain condition occurs such as when the number is divided by zero or input value is non-numeric.  
 Python’s Exception statement automatically detects and creates an Exception object when the error occurs. 
 
-'''
+```
 # ------------------------------------------------- #
 # Title: Assignment 07
 # Description: A example of using pickling and exception errors
@@ -60,7 +60,7 @@ while True:
 dumpData()
 print("\nBinary data imported from file: ")
 loadData()
-'''
+```
 
 ## Summary
 I used different examples from multiple websites to write a script that uses Pickle module and Exception error classes.  
