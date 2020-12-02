@@ -62,7 +62,7 @@ print("\nBinary data imported from file: ")
 loadData()
 ```
 #### Listing 7-4
-![Result of Assignment 07](https://github.com/yms7/ITFnd100-Mod07/blob/main/docs/Figure%207-4.png "Result of Assignment 07: Figure 7-4) ####
+![Result of Assignment 07](https://github.com/yms7/ITFnd100-Mod07/blob/main/docs/Figure%207-4.png "Result of Assignment 07") ####
 
 ## Summary
 I used different examples from multiple websites to write a script that uses Pickle module and Exception error classes.  
