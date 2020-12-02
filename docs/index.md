@@ -69,7 +69,7 @@ loadData()
 I used different examples from multiple websites to write a script that uses Pickle module and Exception error classes.  
 Using Pickle module was very easy to use since there are only two commands to remember “dump” and “load”.  
 However, working with binary formatted file was a quite challenging.  
-Mac applications were not binary friendly at all.  
+Mac applications were not binary friendly at all. 
 I had to find different program to open binary file since text file does not support to ready any binary information. 
 
 Learning Exception class was interesting but at the same time it was quite of challenging work for me.  
